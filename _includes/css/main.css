@@ -75,6 +75,16 @@ hr.star-primary:after {
     background-color: #fff;
 }
 
+img.profile {
+  border-radius: 50%;
+  height: 10em;
+}
+
+.profile-container {
+  width: 13.2em;
+  text-align: center;
+}
+
 .img-centered {
     margin: 0 auto;
 }
@@ -84,6 +94,16 @@ header {
     color: #fff;
     background: #{{ site.color.primary }};
 }
+
+header a {
+  color: #222;
+}
+
+header a:hover, a:visited {
+  color: #DDD;
+}
+
+
 
 header .container {
     padding-top: 100px;
@@ -244,6 +264,7 @@ section.success {
 #portfolio * {
     z-index: 2;
 }
+
 
 @media(min-width:767px) {
     #portfolio .portfolio-item {

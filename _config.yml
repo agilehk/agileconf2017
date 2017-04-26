@@ -1,5 +1,5 @@
 # Site settings
-title: Agile Conf 2017
+title: Agile Hong Kong Conference
 email: weareagilehk@gmail.com
 url: http://www.agilehk.org/agileconf
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
@@ -34,7 +34,7 @@ footer:
   copyright: No rights reserverd, free to use and modify
   location: Location
   social: Around the Web
-  credits: Credits
+  previous_conf: Previous Conferences
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -55,7 +55,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+previous_conf: 'links go here'
 
 # Build settings
 markdown: kramdown
