@@ -1,8 +1,8 @@
 # Site settings
 title: Agile Hong Kong Conference
 email: weareagilehk@gmail.com
-url: http://www.agilehk.org/agileconf
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+url: http://2017.agilehk.org
+description: "Software development, building more collaborative teams, and achieving overall business agility are just some of the topics that will be covered on the day, through speakers, workshops and chances to network with other Agile thinkers in Hong Kong."
 skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: Agile Hong Kong
 
