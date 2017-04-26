@@ -31,7 +31,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: No rights reserverd, free to use and modify
+  copyright: No rights reserved, free to reuse and modify
   location: Location
   social: Around the Web
   previous_conf: Previous Conferences
@@ -39,23 +39,18 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/agilehk
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/groups/hongkongleanandagile/
+  - title: safari
+    url: http://agilehk.org
   - title: github
-    url: http://github.com/jekyll
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+    url: https://www.github.com/agilehk
+  - title: meetup
+    url: https://www.meetup.com/Agile-Hong-Kong/
 
 # Credits content
-previous_conf: 'links go here'
+previous_conf: Coming Soon
 
 # Build settings
 markdown: kramdown
