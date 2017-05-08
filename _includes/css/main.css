@@ -25,6 +25,8 @@ a.active {
     color: #{{ site.color.primary }};
 }
 
+
+
 h1,
 h2,
 h3,
@@ -95,7 +97,7 @@ header {
     background: #{{ site.color.primary }};
 }
 
-header a {
+header a, #registration a {
   color: #222;
 }
 
@@ -481,4 +483,8 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+
+.registration {
+  color: #222;
 }
