@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: Dariusz.png
+img: dariusz.png
 alt: Dariusz Klupi Picture
 title: Dariusz Klupi
 talk: Nonviolent Communication boosts Agility!
