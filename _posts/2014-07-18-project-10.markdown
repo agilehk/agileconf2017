@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-18
+img: viktor.png
+alt: Viktor Grgic Picture
+title: Viktor Grgic
+talk: Descaling organizations, not scaling Agile frameworks
+client: https://www.linkedin.com/in/vgrgic
+category: Advanced topic
+description: "Scaled Agile frameworks have become very popular. A promise is often made that with a framework or set of practices, once 'applied' an organization will save money, deliver faster, better, everyone is happy, and all at the same time. It sounds almost too good to be true. Well...it is too good to be true. Let us try to move beyond so called success stories and other kinds of marketing. In this talk I will tell:
+Why the goal is not to scale up, but 'descale'. Audience will learn that without simplifying amount processes, roles, structures, not much can be achieved. Real life stories how challenging and impactful a LeSS adoption is. How number of organizations (one in Hong Kong) already significantly reduced organizational complexity. How they started to position real teams at the center of organization. Why LeSS is an organizational design framework, and not a framework of Agile practices. Why framework part in LeSS (which is very simple) least relevant part is."
+
+---
