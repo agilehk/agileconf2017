@@ -82,6 +82,11 @@ img.profile {
   height: 10em;
 }
 
+img.speaker-picture {
+  border-radius: 50%;
+  width: 20em;
+}
+
 .profile-container {
   width: 13.2em;
   text-align: center;

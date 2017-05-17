@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-18
+img: kimberley.png
+alt: Kimberley Brown Picture
+title: Kimberley Brown
+talk: So, you think you don't have time to be Agile? Think Again!
+client: https://www.linkedin.com/in/kimberleyjbrown/
+category: Intermediate topic
+description: "I sometimes hear people saying they 'don't have time to be Agile'. This talk provides practical examples of how you can start on your journey to becoming Agile.  The presentation will show photographs from Agile teams and give practicals tips of how you can be Agile too.  
+
+It will talk about practical ways to make learning and knowledge sharing a core to your team's way of working, as well as finding ways to build team spirit and create a sustainable pace of development. "
+
+---
