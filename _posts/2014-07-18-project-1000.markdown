@@ -1,0 +1,20 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-18
+img: daryl.png
+alt: Daryl Chan Picture
+title: Daryl Chan
+talk: To deal with increasing complexity in Agile environments - increase your own complexity
+client: https://www.linkedin.com/in/darylchan/
+category: Intermediate topic
+description: "As we discover and learn more about the teams, organisations and world we exist in, naturally the situation becomes more complex. This is a problem (or delight!) for many Agile practitioners due to the focus on continuous learning - so what happens when it all gets a bit too messy, a bit too much, a bit too ... complex?
+
+As mentioned by Kegan in 'Immunity to change', 'there are only two logical ways to mend this mismatch - reduce the world's complexity or increase our own.'
+
+This presentation will examine one of the more established complexity frameworks (Cynefin) as use that as a basis for exploring various questions faced by Agile practitioners. For instance: Which Agile method should I choose? How do I get people's buy-in? How do I setup successful experiments? How can I change an organisation or situation without upsetting the initial conditions?
+
+The session will be interactive and cover off one or two hands-on techniques to apply this thinking to certain situations.
+"
+
+---

@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-18
+img: daniel.png
+alt: Daniel Teng Picture
+title: Daniel Teng
+talk: Dance in the Darkness
+client: https://www.linkedin.com/in/dteng/
+category: Intermediate topic
+description: "Three years ago, Daniel and his team had a pivot into dark world of product development from Agile. Currently we have a product to help Asian Online Travel Agencies to search / book tickets from Europe railway companies and bus company such as Deutsche Bahn (Germany Railway), Trenitalia, Italo and Flixbus. We working on project of DNA testing, we also work on project of cross-border trade of car parts.
+
+After 3 years experience in product development, one big lesson we realized is that some agile practices became irrelevant. And beyond agile practices, in order to succeed, start up team need to survive, need to exploit every opportunity, or even need some good luck. In this talk, Daniel is going to share with you our strategy to survive, strategy response to uncertainty and our strategy to encounter with serendipity. "
+
+---
