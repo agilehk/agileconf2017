@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-18
+img: eric.png
+alt: Eric Byron Picture
+title: Eric Byron
+talk: DevOps Introduction
+client: https://www.linkedin.com/in/eric-byron-4079382
+category: Intermediate topic
+description: "Do you want to understand how it is possible that companies of all sizes are learning to release new software into production daily through DevOps practices?
+
+This workshop is an introduction to DevOps. It will be a non-technical discussion of the evolution of DevOps with practical guidance on how you can assess your business and how you could start a DevOps initiative.  You will come away with a much clearer understanding of what DevOps is, and isn’t, and learn about the basic principles that can be applied to move towards continuous delivery of value for your customers."
+
+---
