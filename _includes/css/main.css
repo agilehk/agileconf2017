@@ -8,8 +8,13 @@ body {
     overflow-x: hidden;
 }
 
-p {
+p, table td {
     font-size: 20px;
+}
+
+table tr td {
+  margin-top: 15em;
+  padding-left: 2em;
 }
 
 p.small {
